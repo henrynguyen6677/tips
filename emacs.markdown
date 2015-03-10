@@ -1,0 +1,2 @@
+# Code alignment
+:align-regexp
