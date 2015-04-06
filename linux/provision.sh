@@ -40,3 +40,6 @@ http://flowtype.org/docs/getting-started.html
 
 # LAMP
 https://gist.github.com/danpette/a4f9cd207f669f99b882
+
+# Postgresql client
+apt-get install postgresql-client-9.4
